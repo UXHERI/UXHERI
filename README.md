@@ -1,8 +1,12 @@
 # 👋 Hi, I'm Uzair Khan<br>
 **`Cloud & DevSecOps Engineer`** <br>
 
-# 💫 About Me:
-I'm a passionate Cloud & DevSecOps Engineer with a strong foundation in networking and cybersecurity. My experience spans across designing secure architectures on AWS, automating infrastructure with Terraform, and implementing robust CI/CD pipelines using modern DevOps tools.<br><br>🔐 I'm also deeply invested in building secure-by-design systems — from firewalls and subnetting strategies to vulnerability scanning and runtime security.<br><br>🎓 I have completed **BS in Computer Science** from **Kohat University of Science and Technology**.<br><br>🛠 I specialize in **AWS**, **Terraform**, **Docker**, **Kubernetes**, **EKS**, **GitOps**, and **network security tools** like **Wireshark**, **Snort**, and **pfSense**.<br><br>
+# ⚡ About Me:
+👨‍💻 I'm **Uzair Khan**, a Cloud & DevSecOps Engineer with a solid background in networking and cybersecurity.  
+☁️ I design secure, scalable architectures on **AWS** and automate infrastructure with **Terraform**.  
+🔁 I build CI/CD pipelines using **GitHub Actions**, **Jenkins**, and **ArgoCD**, embracing GitOps practices.  
+🐳 I specialize in **Docker**, **Kubernetes**, and **EKS** with a security-first mindset — from firewalls to runtime protection.  
+🎓 I did **B.S. in Computer Science** from Kohat University of Science and Technology.
 
 
 ## 🌐 Socials:
