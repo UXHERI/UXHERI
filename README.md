@@ -1,21 +1,44 @@
 # 👋 Hi, I'm Uzair Khan<br>
-# Cloud & DevSecOps Engineer<br>
+**`Cloud & DevSecOps Engineer`** <br>
 
 # 💫 About Me:
 I'm a passionate Cloud & DevSecOps Engineer with a strong foundation in networking and cybersecurity. My experience spans across designing secure architectures on AWS, automating infrastructure with Terraform, and implementing robust CI/CD pipelines using modern DevOps tools.<br><br>🔐 I'm also deeply invested in building secure-by-design systems — from firewalls and subnetting strategies to vulnerability scanning and runtime security.<br><br>🎓 I have completed **BS in Computer Science** from **Kohat University of Science and Technology**.<br><br>🛠 I specialize in **AWS**, **Terraform**, **Docker**, **Kubernetes**, **EKS**, **GitOps**, and **network security tools** like **Wireshark**, **Snort**, and **pfSense**.<br><br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iam-uzairkhan) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/FantumUxheri) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/thefantumgamer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:uzairikhan2k2@gmail.com) 
+<a href="https://www.linkedin.com/in/iam-uzairkhan/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=UXHERI&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=UXHERI&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UXHERI&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=UXHERI&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 💻 Tech Stack:
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧠 Programming & Scripting Languages  
+[![Languages](https://skillicons.dev/icons?i=python,bash,powershell,cpp,html&theme=light)](https://skillicons.dev)
+
+### ⚙️ DevOps & CI/CD  
+[![DevOps](https://skillicons.dev/icons?i=kubernetes,docker,git,github,gitlab,githubactions,jenkins,terraform&theme=light)](https://skillicons.dev)
+
+### ☁️ Cloud Platforms  
+[![AWS](https://skillicons.dev/icons?i=aws&theme=light)](https://skillicons.dev)
+
+### 🗄️ Databases  
+[![Databases](https://skillicons.dev/icons?i=mysql,mongodb,postgres,dynamodb&theme=light)](https://skillicons.dev)
+
+### 📊 Monitoring & Observability  
+[![Monitoring](https://skillicons.dev/icons?i=prometheus,grafana&theme=light)](https://skillicons.dev)
+
+### 🖥️ Operating Systems  
+[![OS](https://skillicons.dev/icons?i=linux,kali,ubuntu,redhat,windows&theme=light)](https://skillicons.dev)
+
+### 🧰 Code Editors & IDEs  
+[![Editors](https://skillicons.dev/icons?i=vim,vscode&theme=light)](https://skillicons.dev)
+
+### 📝 Documentation Tools  
+[![Docs](https://skillicons.dev/icons?i=md,notion,obsidian,latex&theme=light)](https://skillicons.dev)
+
+### 🎨 Design & Prototyping  
+[![Design](https://skillicons.dev/icons?i=figma,ai,ps&theme=light)](https://skillicons.dev)
+
+---
