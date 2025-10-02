@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Uzair Khan<br>
-**`Cloud & DevSecOps Engineer`** <br>
+**`AWS Cloud Engineer`** **`DevSecOps Engineer`** **`Network Engineer`** **`Cyber Security Engineer`** <br>
 
 # ⚡ About Me:
 👨‍💻 I'm **Uzair Khan**, a Cloud & DevSecOps Engineer with a solid background in networking and cybersecurity.  
