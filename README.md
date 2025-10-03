@@ -10,19 +10,11 @@
 
 
 ## 🌐 Socials:
-<p align="left">
-  <a href="https://www.linkedin.com/in/iam-uzairkhan/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" alt="LinkedIn" width="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@uzairikhan2k2" target="_blank">
-    <img src="https://raw.githubusercontent.com/UXHERI/UXHERI/main/Icons/medium.png" alt="Medium" width="50" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/923239813769" target="_blank">
-    <img src="https://github.com/UXHERI/skill-icons/blob/main/icons/whatsapp.png?raw=true" alt="Whatsapp" width="50" />
-  </a>
-</p>
+[<img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="50" alt="LinkedIn" />](https://www.linkedin.com/in/iam-uzairkhan/)&nbsp;
+[<img src="https://raw.githubusercontent.com/UXHERI/UXHERI/main/Icons/medium.png" width="50" alt="Medium" />](https://medium.com/@uzairikhan2k2)&nbsp;
+[<img src="https://github.com/UXHERI/skill-icons/blob/main/icons/whatsapp.png?raw=true" width="50" alt="WhatsApp" />](https://wa.me/923239813769)
+
+
 
 
 ## 💻 Tech Stack:
