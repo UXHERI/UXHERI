@@ -10,6 +10,7 @@
 
 
 ## 🌐 Socials:
+[![Github](https://skillicons.dev/icons?i=github&theme=light&size=70)](https://github.com/UXHERI)&nbsp;
 [<img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="50" alt="LinkedIn" />](https://www.linkedin.com/in/iam-uzairkhan/)&nbsp;
 [<img src="https://raw.githubusercontent.com/UXHERI/UXHERI/main/Icons/medium.png" width="50" alt="Medium" />](https://medium.com/@uzairikhan2k2)&nbsp;
 [<img src="https://github.com/UXHERI/skill-icons/blob/main/icons/whatsapp.png?raw=true" width="50" alt="WhatsApp" />](https://wa.me/923239813769)
