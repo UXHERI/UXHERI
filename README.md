@@ -24,7 +24,7 @@
 [![Languages](https://skillicons.dev/icons?i=python,bash,powershell,cpp,html&theme=light)](https://skillicons.dev)
 
 ### ⚙️ DevOps & CI/CD  
-[![DevOps](https://skillicons.dev/icons?i=kubernetes,docker,git,github,gitlab,githubactions,jenkins,terraform&theme=light)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=kubernetes,docker,git,github,gitlab,githubactions,jenkins,terraform,ansible&theme=light)](https://skillicons.dev)
 
 ### ☁️ Cloud Platforms  
 [![AWS](https://skillicons.dev/icons?i=aws&theme=light)](https://skillicons.dev)
