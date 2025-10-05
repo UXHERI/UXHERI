@@ -36,7 +36,7 @@
 [![Monitoring](https://skillicons.dev/icons?i=prometheus,grafana&theme=light)](https://skillicons.dev)
 
 ### 🖥️ Operating Systems  
-[![OS](https://skillicons.dev/icons?i=linux,kali,ubuntu,redhat,windows&theme=light)](https://skillicons.dev)
+[![OS](https://skillicons.dev/icons?i=linux,kali,ubuntu,redhat,debian,windows&theme=light)](https://skillicons.dev)
 
 ### 🧰 Code Editors & IDEs  
 [![Editors](https://skillicons.dev/icons?i=vim,vscode&theme=light)](https://skillicons.dev)
